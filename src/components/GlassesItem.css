@@ -1,0 +1,10 @@
+.glasses-item {
+    width: 80px;
+    height: auto;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+
+.glasses-item:hover {
+    transform: scale(1.1);
+}
